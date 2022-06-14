@@ -1,8 +1,9 @@
 {
     "java.project.sourcePaths": [
         "platform practice",
+        "alfredBot",
         "StringDemo",
         "CafeJava",
-        "alfredBot"
+        "Practice"
     ]
 }
