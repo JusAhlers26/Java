@@ -54,3 +54,4 @@ class Start2 {
         boolean isDead = !isAlive;
     }
 }
+
